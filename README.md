@@ -3,6 +3,38 @@ DFS
 
 ## PathFinder
 
+Perform basic string parsing in Java
+
+Use basic algorithms / data structures in Java
+
+Path findingPerform string parsing in Java
+
+Manipulate dates in Java
+
+Use multiple Java utilties
+
+Input_1.txt
+
+A E
+
+A : B C D
+
+B : C
+
+C : E
+
+D : B
+
+Output:
+
+A-> B -> C-> E
+
+A-> C->E
+
+A-> D ->B->C->E
+
+List<String> return all paths from node A to node E.
+    
 
 ## Log Parser (for Java)
 Log Parser (for Java)
